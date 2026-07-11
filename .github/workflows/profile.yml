@@ -22,6 +22,8 @@ jobs:
   snake:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+
       - name: generate snake animation
         uses: Platane/snk@v3
         id: snake
