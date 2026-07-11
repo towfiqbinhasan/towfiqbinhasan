@@ -9,16 +9,6 @@ permissions:
   contents: write
 
 jobs:
-  stats:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: jstrieb/github-stats@master
-        with:
-          username: towfiqbinhasan
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
   snake:
     runs-on: ubuntu-latest
     steps:
