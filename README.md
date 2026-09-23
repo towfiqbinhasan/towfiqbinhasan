@@ -4,7 +4,7 @@
 
 <br/>
 
-<a href="https://towfiqbinhasan.vercel.app">
+<a href="https://towfiqbinhasan.com">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=650&lines=CS+Student+%7C+Researcher;ML+Engineer+%7C+Full-Stack+Web+Developer;Welcome+to+my+GitHub+Profile+%F0%9F%91%8B" alt="Typing SVG" />
 </a>
 
