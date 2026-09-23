@@ -30,7 +30,7 @@ I am a meticulous **Computer Science and Engineering** student at **AIUB**, majo
 
 Beyond my technical life, I am an adventurous traveler. I have a dream of going on a world tour, and I have already successfully traveled across all of Bangladesh with my travel group, **TH Team**. My experience as a traveler has made me a more adaptable and fast learner. With a mix of strong analytical skills, teaching experience, and a motivated mindset, I am eager to bring my technical knowledge into a professional environment.
 
-- 🌐 Portfolio: **[towfiqbinhasan.vercel.app](https://towfiqbinhasan.com)**
+- 🌐 Portfolio: **[towfiqbinhasan.com](https://towfiqbinhasan.com)**
 - 📫 Email: **towfiqbinhasan@gmail.com**
 - 🐙 GitHub: **[github.com/towfiqbinhasan](https://github.com/towfiqbinhasan)**
 
